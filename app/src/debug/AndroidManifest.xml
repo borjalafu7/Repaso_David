@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name="com.davefer.repasot2.notificacion"></activity>
+        <activity android:name="com.davefer.repasot2.notificacion_si" />
+        <activity android:name="com.davefer.repasot2.notificacion_no" />
+        <activity android:name="com.davefer.repasot2.httprequest" />
+    </application>
+
+</manifest>

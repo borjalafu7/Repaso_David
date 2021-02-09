@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizaciones>
+    <localizacion>
+        <titulo>Puerto Valencia</titulo>
+        <fragmento>610774203</fragmento>
+        <etiqueta>puerto</etiqueta>
+        <latitud>39.44874705384803</latitud>
+        <longitud>-0.3169696589001046</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Aeropuerto Manises</titulo>
+        <fragmento>https://www.aeropuerto-valencia.com/</fragmento>
+        <etiqueta>aeropuerto</etiqueta>
+        <latitud>39.49263150185861</latitud>
+        <longitud>-0.4785405869218439</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Puerto de Alicante</titulo>
+        <fragmento>610774203</fragmento>
+        <etiqueta>puerto</etiqueta>
+        <latitud>38.33569901166057</latitud>
+        <longitud>-0.48855600098906804</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Aeropuerto de Alicante-Elche</titulo>
+        <fragmento>https://www.aeropuertoalicante-elche.com/</fragmento>
+        <etiqueta>aeropuerto</etiqueta>
+        <latitud>38.286123004877496</latitud>
+        <longitud>-0.5605173427852801</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Puerto de Castellón</titulo>
+        <fragmento>610774203</fragmento>
+        <etiqueta>puerto</etiqueta>
+        <latitud>39.97584609136316</latitud>
+        <longitud>0.016624368358420658</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Aeropuerto de Castellon</titulo>
+        <fragmento>https://www.aeroportcastello.com/es</fragmento>
+        <etiqueta>aeropuerto</etiqueta>
+        <latitud>40.21103932859092</latitud>
+        <longitud>0.06743146064888379</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Puerto de Barcelona</titulo>
+        <fragmento>610774203</fragmento>
+        <etiqueta>puerto</etiqueta>
+        <latitud>41.33321825041919</latitud>
+        <longitud>2.1418850610124665</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Aeropuerto Josep Tarradellas</titulo>
+        <fragmento>https://www.aeropuertobarcelona-elprat.com/home.html</fragmento>
+        <etiqueta>aeropuerto</etiqueta>
+        <latitud>41.29738855571565</latitud>
+        <longitud>2.0831760800507033</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Puerto de San Juan de las Arenas</titulo>
+        <fragmento>610774203</fragmento>
+        <etiqueta>puerto</etiqueta>
+        <latitud>43.555547057263404</latitud>
+        <longitud>-6.076499136636124</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Aeropuerto de Asturias</titulo>
+        <fragmento>http://aena.mobi/m/es/aeropuerto-asturias/asturias.html</fragmento>
+        <etiqueta>aeropuerto</etiqueta>
+        <latitud>43.56236693037291</latitud>
+        <longitud>-6.033744565891604</longitud>
+    </localizacion>
+</localizaciones>

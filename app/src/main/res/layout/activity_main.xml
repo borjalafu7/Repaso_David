@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="150px"
+        android:textAlignment="center"
+        android:textSize="100px"
+        android:layout_marginBottom="20px"
+        android:text="REPASO 2 TRIMESTRE" />
+
+    <Button
+        android:id="@+id/ldf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CARGAR DATOS"
+        android:onClick="cargarDatos"
+        />
+
+    <Button
+        android:id="@+id/mapas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAPAS"
+        android:onClick="mapas"
+        />
+
+    <Button
+        android:id="@+id/hta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HTTP REQUEST"
+        android:onClick="httprequest"
+        />
+
+    <Button
+        android:id="@+id/h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HILOS "
+        android:onClick="ejecutarHilo"
+        />
+
+    <Button
+        android:id="@+id/t"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TAREAS ASÍNCRONAS"
+        android:onClick="tareaAsincrona"
+        />
+
+    <Button
+        android:id="@+id/notificaciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NOTIFICACIONES"
+        android:onClick="sendNotificacion"
+        />
+
+    <Button
+        android:id="@+id/breciver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BROADCAST RECEIVER"
+        android:onClick="broadcastReceiver"
+        />
+
+</LinearLayout>
